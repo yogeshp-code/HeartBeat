@@ -26,6 +26,16 @@ I envisioned a unified view—where I could:
 
 And so, **Heartbeat Portal** was born.
 
+
+---
+
+### ⚡ Plug & Play, Minimal Cost Monitoring
+
+All of this at **unnoticeable AWS cost**.  
+Just plug and play — configure your AWS profiles and **see the magic** ✨
+
+---
+
 ## 🛠️ Tech Stack
 
 I learned backend, frontend, and microservices in college, so I leveraged that knowledge and curiosity to build this portal.

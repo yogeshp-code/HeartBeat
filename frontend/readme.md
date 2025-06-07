@@ -21,8 +21,8 @@ A modern Next.js dashboard for monitoring ECS services with real-time metrics an
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd heartbeat
+   git clone https://github.com/yogeshp-code/ECSBoard.git
+   cd frontend
    ```
 
 2. **Install dependencies**
