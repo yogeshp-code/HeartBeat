@@ -55,6 +55,13 @@ I learned backend, frontend, and microservices in college, so I leveraged that k
 
 ---
 
+🔮 Future Possibilities
+Heartbeat is designed to be extensible. In future iterations, we plan to extend support beyond ECS to other AWS services like Lambda, SQS, RDS, and Auto Scaling Groups.
+
+The vision is to evolve Heartbeat into a unified, low-cost monitoring dashboard for all critical AWS workloads.
+
+---
+
 ## 📂 Project Structure
 
 This is a **monorepo** containing:
